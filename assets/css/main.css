@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Vazir;
+    src: url("../fonts/Vazir.ttf") format('truetype');
+    /*src: url("../fonts/Vazir.eot?#") format('eot');*/
+    /*src: url("../fonts/Vazir.woff") format('woff');*/
+
+}
+form .error {
+    color: #ff0000;
+}
